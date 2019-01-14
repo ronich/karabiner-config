@@ -1,1 +1,1 @@
-# karabiner-config
+my karabiner configs for macos
